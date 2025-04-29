@@ -1,0 +1,18 @@
+{
+  "name": "parcial2",
+  "version": "1.0.0",
+  "description": "Museo Virtual de Arte Moderno",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

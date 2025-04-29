@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1= obra.titulo
+  img(src=obra.imagen, alt=obra.titulo, width='400')
+  p Autor: #{obra.autor}
+  p Año: #{obra.año}
+  p Descripción: #{obra.descripcion}
+  a(href='/galeria') Volver a la galería
