@@ -1,4 +1,4 @@
-![Descripción de la imagen](./public/img/pantallazo.png)
+![Descripción de la imagen](/public/img/pantallazo.png)
 
 
 Este es un proyecto de la asignatura de programacion web, en el cual usamos las tecnologias de Node.js,
